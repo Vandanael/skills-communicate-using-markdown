@@ -1,7 +1,9 @@
-# New Title
+# Learning title
 ## Second Title
 
-
+- [x] Turn on GitHub Pages
+- [ ] Outline my work
+- [x] Introduce myself to the world
 
 Commit tests with Markups
 
